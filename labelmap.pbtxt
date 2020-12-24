@@ -1,0 +1,64 @@
+item {
+    id: 1
+    name: 'apoderus_javanicus'
+}
+item {
+    id: 2
+    name: 'daun_apoderus_javanicus'
+}
+item {
+    id: 3
+    name: 'aulacaspis_tubercularis'
+}
+item {
+    id: 4
+    name: 'ceroplastes_rubens'
+}
+item {
+    id: 5
+    name: 'cisaberoptus_kenyae'
+}
+item {
+    id: 6
+    name: 'dappula_tertia'
+}
+item {
+    id: 7
+    name: 'dialeuropora_decempuncta'
+}
+item {
+    id: 8
+    name: 'erosomyia_sp'
+}
+item {
+    id: 9
+    name: 'icerya_seychellarum'
+}
+item {
+    id: 10
+    name: 'ischnaspis_longirostris'
+}
+item {
+    id: 11
+    name: 'mictis_longicornis'
+}
+item {
+    id: 12
+    name: 'neomelicharia_sparsa'
+}
+item {
+    id: 13
+    name: 'orthaga_euadrusalis'
+}
+item {
+    id: 14
+    name: 'procontarinia_matteiana'
+}
+item {
+    id: 15
+    name: 'procontarinia_rubus'
+}
+item {
+    id: 16
+    name: 'valanga_nigricornis'
+}
