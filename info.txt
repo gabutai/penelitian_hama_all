@@ -1,0 +1,3 @@
+found the solution
+
+If you're getting error "TypeError: None has type NoneType, but expected one of: int, long" .

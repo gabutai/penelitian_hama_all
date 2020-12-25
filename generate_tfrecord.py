@@ -58,7 +58,7 @@ def class_text_to_int(row_label):
         return 16  
  
     else:
-        return None
+        return 0
 
 
 def split(df, group):
